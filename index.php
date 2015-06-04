@@ -1,7 +1,5 @@
 <html>
 <body>
-<?php
-	echo 'primo file modificato';
-?>
+<?php echo 'primo file modificato'; ?>
 </body>
 </html>
