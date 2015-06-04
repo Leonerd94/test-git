@@ -1,7 +1,6 @@
 <html>
 <body>
-<?php
-	echo 'primo file modificato';
+<?php echo 'primo file modificato per confilitto';
 ?>
 </body>
 </html>
